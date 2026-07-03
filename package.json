@@ -6,9 +6,9 @@
   "author": "",
   "type": "commonjs",
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel index.html"
-  },
+  "dev": "parcel index.html",
+  "build": "parcel build index.html"
+},
   "devDependencies": {
     "autoprefixer": "^10.5.0",
     "parcel": "^2.16.4",
