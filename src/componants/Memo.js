@@ -1,5 +1,5 @@
 import { useState, useMemo } from "react";
-import { nthPrime } from "../utils/constant";
+import { nthPrime } from "../utils/Constant";
 
 const Memo = () => {
     const [num, setNum] = useState(0);
